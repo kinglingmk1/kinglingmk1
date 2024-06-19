@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @kinglingmk1 a beginner of C++, Java, JS, C#, HTML, CSS and a lot's of damn shit :> ;
-- My personal Website: kinglingmk1.com
+- 👋 Hi, I’m @kinglingmk1. A junior programmer as C++, Java, JS, C#, HTML, CSS and Unity
+- My personal Website: https://www.kinglingmk1.com
 
 <!---
 kinglingmk1/kinglingmk1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
